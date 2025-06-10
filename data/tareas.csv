@@ -1,0 +1,4 @@
+id,descripcion,categoria,fecha_limite,duracion,completada
+1,Preparar presentación,Trabajo,2025-06-15,2,False
+2,Comprar víveres,Hogar,2025-06-11,1,False
+3,Estudiar Python,Estudio,2025-06-20,3,False
